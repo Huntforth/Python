@@ -1,0 +1,2 @@
+# Python
+You now have a pretty good start on learning JAVA and, possibly, some experience with C. Use the next 2 days to learn a  Create a simple Python program that, at a minimum, prints the following (with YOUR info):  My name is Martha Kaiser. My student ID is 2061234.  M a r t h a  My name all capitalized is MARTHA KAISER.  Create and array called my_summer_plans. Print them out as follows: This summer I plan to sleep, travel, work.  Push or upload your code to your GitHub account and send me the link.
